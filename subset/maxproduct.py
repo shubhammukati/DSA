@@ -1,4 +1,7 @@
-def findMaxProduct(self, arr):
+import sys
+class Solution:
+    def findMaxProduct(self, arr):
+        # Write your code here
         if n == 1:
 		    return arr[0]
 
